@@ -1,6 +1,10 @@
 # 3400final
 The main hub where all of the files/code will sit for the final project
 
+## Authors:
+Alex Kunz, Morgan Lynch, Abhiyan Barailee
+
+
 ## Question:
 In a binary system of a white dwarf (mostly C&O) and a red giant (carbon depletion core), where they are at a fixed distance that allows direct mass transfer, how does the binary interaction differ with different initial masses of the red giant? How does the binary interaction between the red giant and the white dwarf impact their evolution? 
 
@@ -10,5 +14,5 @@ With our current knowledge of mass transfer in a binary system of a red giant an
 ## Methods:
 We will be using the MESA repository to simulate these events
 
-## Authors:
-Alex Kunz, Morgan Lynch, Abhiyan Barailee
+## Setup
+- Copy MESA models into directory: `cp -r /opt/mesa/mesa-r23.05.1/star/test_suite/12M_pre_ms_to_core_collapse ~/`
