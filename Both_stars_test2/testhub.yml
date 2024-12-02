@@ -1,0 +1,12 @@
+    - inlist: inlist
+      runtime_minutes:  65.66
+      model_number:          935
+      star_age:     9.1181703060462438E+06
+      num_retries:            2
+      log_rel_run_E_err:        -7.8197520307141142
+      steps:          937
+      retries:            2
+      redos:            0
+      solver_calls_made:         1874
+      solver_calls_failed:            2
+      solver_iterations:        11869
