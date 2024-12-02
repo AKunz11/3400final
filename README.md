@@ -23,4 +23,4 @@ https://billwolf.space/projects/massive_binaries_2021/#part1 (MESA summer school
 - Both_stars2 used a period of 655 days
 
 ## Setup
-- Copy MESA models into directory: `cp -r /opt/mesa/mesa-r23.05.1/star/test_suite/12M_pre_ms_to_core_collapse ~/`
+- Copy MESA models into directory: `cp -r /opt/mesa/mesa-r23.05.1/binary/test_suite/evolve_both_stars ~/`
