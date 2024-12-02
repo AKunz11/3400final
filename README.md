@@ -18,5 +18,9 @@ We will be using the MESA repository to simulate these events
 https://cococubed.com/mesa_market/inlists.html (list of inlist examples)
 https://billwolf.space/projects/massive_binaries_2021/#part1 (MESA summer school binary help)
 
+## Notes
+- Both_stars1 used a period of 755 days (the period calculated using Roche Lobe radius)
+- Both_stars2 used a period of 655 days
+
 ## Setup
 - Copy MESA models into directory: `cp -r /opt/mesa/mesa-r23.05.1/star/test_suite/12M_pre_ms_to_core_collapse ~/`
